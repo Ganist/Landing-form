@@ -74,10 +74,6 @@ body {
     height: 100vh;
   }
 
-  .respuestaMain{
-    
-  }
-
   #respuesta{
     display: flex;
     justify-content: start;
